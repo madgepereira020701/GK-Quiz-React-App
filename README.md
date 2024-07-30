@@ -7,9 +7,11 @@ Technology Used: React.js, Node.js.<br>
 On pressing the Start Quiz button on the Home Page, the question along with the options is displayed. There are 10 questions in total, each of which are displayed for a time duration of 10 seconds<br>
 ![Start Quiz](https://github.com/madgepereira020701/GK-Quiz-React-App/blob/main/Snapshots/Start%20Quiz.png)<br>
 ## 2. Right Answer
+<br>
 ![Right Answer](https://github.com/madgepereira020701/GK-Quiz-React-App/blob/main/Snapshots/Right%20Answer.png)<br>
 ## 3. Wrong Answer
-<br>![Wrong Answer](https://github.com/madgepereira020701/GK-Quiz-React-App/blob/main/Snapshots/Wrong%20Answer.png)<br>
+<br>
+![Wrong Answer](https://github.com/madgepereira020701/GK-Quiz-React-App/blob/main/Snapshots/Wrong%20Answer.png)<br>
 ## 4. Result Page
 <br>![Result 1](https://github.com/madgepereira020701/GK-Quiz-React-App/blob/main/Snapshots/Result%201.png)<br>
 ![Result 2](https://github.com/madgepereira020701/GK-Quiz-React-App/blob/main/Snapshots/Result%202.png)<br>
